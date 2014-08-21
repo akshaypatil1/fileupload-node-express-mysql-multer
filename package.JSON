@@ -1,0 +1,15 @@
+{
+    "name": "fileupload",
+    "description": "express-upload: node.js, express, multer, easyimage, html5 progress upload example",
+    "version": "0.0.1",
+    "private": true,
+	"main": "server.js",
+  	"author": "php.akshay@gmail.com",
+    "dependencies": {
+        "express": "3.x",
+		"mysql": "2.x",
+		"body-parser": "^1.6.1",
+        "multer": "0.x",
+        "easyimage": "0.x"
+    }
+}
